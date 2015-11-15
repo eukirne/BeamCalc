@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Enrique_Ramos_Thesis</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>windows64</name>
+			<type>2</type>
+			<location>/Users/eukirne/Downloads/Eclipse.app/Contents/MacOS/C::/Program Files/processing-1.5.1/modes/java/libraries/opengl/library/windows64</location>
+		</link>
+	</linkedResources>
+</projectDescription>
